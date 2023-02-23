@@ -5,7 +5,7 @@ Ungraduated Student from Informatics and Computer Engineering Science - Universi
 - 🔭 I’m currently working as UI Web and Graphic Designer
 - 🌱 I’m currently learning about Mobile Development in <a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning">@BangkitAcademy</a>
 - 💬 Feel free to ask me about UI Web and Graphic Design
-- 📫 How to reach me: mrifqiirawan@gmail.com
+- 📫 How to reach me: mrifqiirawan.unm@gmail.com
 - ⚡ Fun fact: i like watching anime
 
 ### Github Statistic
@@ -19,4 +19,4 @@ Ungraduated Student from Informatics and Computer Engineering Science - Universi
 ### Reach me on
 - <a href="https://linkedin.com/in/heireev/">LinkedIn</a>
 - <a href="https://instagram.com/in/heireev/">Instagram</a>
-- mrifqiirawan@gmail.com
+- mrifqiirawan.unm@gmail.com
