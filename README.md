@@ -11,8 +11,8 @@ Ungraduated Student from Informatics and Computer Engineering Science - Universi
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/heireev">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=heireev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heireev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=heireev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heireev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
