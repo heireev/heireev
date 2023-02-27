@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Rifqi.
+### Hi! 👋 I'm Rifqi. You can call me Reev or Kio
 
 Ungraduated Student from Informatics and Computer Engineering Science - Universitas Negeri Makassar
 
